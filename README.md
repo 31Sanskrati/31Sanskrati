@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @31Sanskrati
 - 👀 I’m interested in web-development and other technologies
 - 🌱 I’m currently learning something
-- 📫 How to reach me ----> use discord --> Sanskrati_Jain#5774
-                     ----> follow me on twitter --> https://twitter.com/SanskratiJain4
+- 📫 How to reach me ----> follow me on twitter --> https://twitter.com/SanskratiJain4
                      ----> or on linkedin --> https://www.linkedin.com/in/sanskrati-jain-21aa55208/
 
 
