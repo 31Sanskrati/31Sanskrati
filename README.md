@@ -5,6 +5,6 @@
                      ----> or on linkedin --> https://www.linkedin.com/in/sanskrati-jain-21aa55208/
 
 
-Looking forward to this new journey with git, github and you.          
+Looking forward to this new journey with git, github and you :sweat_smile:.          
 
 <!--- Okay, this line was cheesy--->
