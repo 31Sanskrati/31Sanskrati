@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @31Sanskrati
-- 👀 I’m interested in web-development and other technologies
-- 🌱 I’m currently learning something
-- 📫 How to reach me ----> follow me on twitter --> https://twitter.com/SanskratiJain4
-                     ----> or on linkedin --> https://www.linkedin.com/in/sanskrati-jain-21aa55208/
+# 👋 Hi, I’m [Sanskrati](https://github.com/31Sanskrati)
 
+## 👀 About Me
+- 🎓 I’m a junior pursuing my Bachelors in Computer Science & Engineering.
+- 👨‍💻 I am passionate about Web Dev, & I enjoy learning new things.
 
-Looking forward to this new journey with git, github and you :sweat_smile:.          
-
-<!--- Okay, this line was cheesy--->
+## 📫 How to reach me 
+- [Twitter](https://twitter.com/SanskratiJain4)
+- [Linkedin](https://www.linkedin.com/in/sanskrati-jain/)
+- [Codepen](https://codepen.io/Sanskrati01)
+- [Gmail](31sanskrati@gmail.com)
