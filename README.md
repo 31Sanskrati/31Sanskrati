@@ -1,8 +1,9 @@
-# 👋 Hey, I’m Sanskrati
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> Hey, I’m [Sanskrati](https://31sanskrati.github.io/Portfolio_website/)
 
 ## 👀 About Me
 I am a Computer Science student. Currently, I am exploring different technologies. I am intrested in web dev and cyber security. And this is my [profile website ^-^](https://31sanskrati.github.io/Portfolio_website/)
-###Currently Learning:
+
+## Currently Learning:
 - DevOps
 - Data Structutre and Algorithms
 
