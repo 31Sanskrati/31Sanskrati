@@ -16,3 +16,5 @@ I prefer [Gmail](mailto: 31sanskrati@gmail.com), but for your convienence
   <a href="https://www.linkedin.com/in/sanskrati-jain/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
+  <a href="mailto: 31sanskrati@gmail.com"> Gmail
+  </a>&ensp;
