@@ -8,13 +8,11 @@ I am a Computer Science student. Currently, I am exploring different technologie
 - Data Structutre and Algorithms
 
 ## 📫 How to connect with me
-I prefer [Gmail](mailto: 31sanskrati@gmail.com), but for your convienence
+I prefer Gmail( i.e 31sanskrati@gmail.com), but for your convienence
 
 <a href="https://twitter.com/azura_dios">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
   <a href="https://www.linkedin.com/in/sanskrati-jain/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  <a href="mailto: 31sanskrati@gmail.com"> Gmail
   </a>&ensp;
