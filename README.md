@@ -1,5 +1,7 @@
 # Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I’m [Sanskrati](https://31sanskrati.github.io/Portfolio_website/)
 
+[![Profile Image](https://github.com/31Sanskrati/31Sanskrati/blob/main/profile.png)](https://31sanskrati.github.io/Portfolio_website/)
+
 ## 👀 About Me
 
 - 🌱 I’m currently exploring every domain in computer science
