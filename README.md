@@ -9,15 +9,17 @@
 
 
 ## 📫 How to connect with me
-I prefer ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)( i.e 31sanskrati@gmail.com), but for your convienence
+I prefer Gmail;, but for your convienence
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/azura_dios#gh-light-mode-only)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/azura_dios#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](31sanskrati@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskrati-jain/#gh-light-mode-only)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskrati-jain/#gh-dark-mode-only)
 &nbsp;&nbsp;
+
 
 ## ⚡Languages and Tools I know
 
