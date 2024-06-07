@@ -1,16 +1,22 @@
-# Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I’m [Sanskrati](https://31sanskrati.github.io/Portfolio_website/)
+<div align="center">
 
-[![Profile Image](https://github.com/31Sanskrati/31Sanskrati/blob/main/profile.png)](https://31sanskrati.github.io/Portfolio_website/)
+# Welcome to my Github
+<p>I'm Sanskrati Jain, a software engineer with the coding chops and the enthusiasm of a magical girl anime protagonist.  Fueled by chai ☕️ and a healthy dose of friendly chaos, I build things that are both technically sound and creatively mind-blowing.</p>
 
-## 👀 About Me
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
-- 🌱 I’m currently exploring every domain in computer science
-- 🔭 Check out my [Profile](https://31sanskrati.github.io/Portfolio_website/) 🔥
-- 👯 I’m always ready to collaborate with others 🤝🏻
-- 🥅 2022 Goals: Learn about DevOps and solve Leetcode problems 🚀
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
+<br><br>
+## 👀 When I'm not wrestling with code, you'll find me:
 
-## 📫 How to connect with me
+- 🌱 Living vicariously through shounen anime battles (Go, Team Deku! )
+- 👯 Crafting heartfelt Hindi poetry (sayari) that'll make your heart do a dhak dhak
+- Chillin' like a villain (but for the good side, of course )
+
+## 📫 Let's Be Friends!
 I prefer Gmail;, but for your convienence
 
 
@@ -27,7 +33,6 @@ I prefer Gmail;, but for your convienence
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -40,9 +45,10 @@ I prefer Gmail;, but for your convienence
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 ## My Blogs
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@azura_dios)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sanskrati01)
+
+P.S.: I'm always down for a coding adventure or a good shayari debate. Hit me up if you have a project in mind, or just want to chat about the latest anime season!
+
+P.P.S.: Feel free to send me memes. I appreciate a good laugh.
